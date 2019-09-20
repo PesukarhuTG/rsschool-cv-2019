@@ -33,6 +33,18 @@ function test() {
   console.log("Here will be an example code");
 }
 ```
+```
+if (isAwesome){
+  return true
+}
+```
+```
+{
+  "firstName": "Tatiana",
+  "lastName": "Fox",
+  "age": 18+
+}
+```
 
 #### Experience
 ---
