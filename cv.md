@@ -54,11 +54,11 @@ I am experienced in Html and CSS editing. I can develop and form a layout and cr
 #### Education
 ---
 
-|       	    |                                                                               | 
-|--------------	|------------------------------------------------------------------------------ |
-| 2019 and now  | RS School: Front-end/JavaScript                                               | 
-| 2018/2019     | Online education: Htmlacademy.ru, codecademy.com, geekbrains.ru, skillbox.ru  | 
-| 2018   	    | Level UP education center: Junior front-end developer course                  | 
+| Year          |    	                                                                            |
+| :------------ | :---------------------------------------------------------------------------      |
+| 2019 *and now*  | RS School: Front-end/JavaScript                                               	|   
+| 2018/2019     | Online education: Htmlacademy.ru, codecademy.com, geekbrains.ru, skillbox.ru  	|   
+| 2018  	    | Level UP education center: Junior front-end developer                         	|
 
 #### English
 ---
